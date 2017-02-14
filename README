@@ -3,3 +3,5 @@ PDF.JS WebJar
 More info: http://webjars.org
 
 Upstream: https://github.com/mozilla/pdf.js
+
+Output has been deployed manually to Artifactory so far. This also means editing the packaged pom.xml to remove the parent reference.
